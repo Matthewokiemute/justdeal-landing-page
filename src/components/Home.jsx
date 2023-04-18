@@ -14,7 +14,7 @@ const Home = () => {
         <div className="home-text-section">
           <img src={Logo} alt="" className="logo" />
           <h1 className="primary-heading">
-            Buy And Sell Your Items To <span>Anyone.</span>
+            Buy And Sell Your SecondHand <span>Items To Anyone.</span>
           </h1>
           <p className="primary-text">
             Tired 😩 of not been able to sell items to your customers that are
